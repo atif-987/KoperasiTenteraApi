@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoperasiTenteraApi", "KoperasiTenteraApi.csproj", "{702CE771-766E-48D1-B16C-1C2FDB334601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702CE771-766E-48D1-B16C-1C2FDB334601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702CE771-766E-48D1-B16C-1C2FDB334601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702CE771-766E-48D1-B16C-1C2FDB334601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702CE771-766E-48D1-B16C-1C2FDB334601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F013ED7-1296-49CE-B906-98A4E55F8C85}
+	EndGlobalSection
+EndGlobal
